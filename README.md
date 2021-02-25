@@ -1,6 +1,6 @@
 # PLAsTiCC Astronomical Classification Challenge
 
-PLAsTiCC is a large data challenge that attempts to classify astronomical objects by analysing the time series measurements of the ‘light curves’ data (intensity of photon flux) emitted by
+PLAsTiCC (https://www.kaggle.com/c/PLAsTiCC-2018) is a large data challenge that attempts to classify astronomical objects by analysing the time series measurements of the ‘light curves’ data (intensity of photon flux) emitted by
 cosmological objects using six different astronomical passbands . The flux may be decreasing or 1 increasing over time, the pattern of the changes in its brightness acts as a good indicator of the
 underlying object. Each object in the set of training data belongs to one of the 14 classes, in the test data there is one additional 15th class that is meant to capture “novelties” (objects that are
 hypothesised to exist).
