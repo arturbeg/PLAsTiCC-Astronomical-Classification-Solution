@@ -10,3 +10,7 @@ be a very significant feature that lets us compare cosmological events that migh
 for detected observations of flux is an extremely useful domain specific feature that can separate a “one event” from a “cyclic event”. Not to mention, a fourier transform of the time
 series data is yet another feature engineering approach that proved to be very useful in the analysis. Light Gradient Boosting framework that incorporates the feature engineering has
 proved to be the best approach to tackle the challenge.
+
+## Model Performance Progression
+
+
