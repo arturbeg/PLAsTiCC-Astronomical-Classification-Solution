@@ -13,4 +13,4 @@ proved to be the best approach to tackle the challenge.
 
 ## Model Performance Progression
 
-
+![shot 1](progression_graph.png?raw=true)
